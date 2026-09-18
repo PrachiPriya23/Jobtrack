@@ -1,0 +1,8 @@
+{
+  "name": "JobTrack – Job Application Manager",
+  "description": "Android job application manager featuring Job Dashboard Activity, Application Fragment with RadioGroups, Job Details Activity with Intent data passing, status update push notifications, and live Logcat lifecycle tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
